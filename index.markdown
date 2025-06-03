@@ -4,7 +4,7 @@
 
 layout: home
 ---
-## **This is Our 1787 Moment**  
+### **This is Our 1787 Moment**  
   
 It has been said that we are living in our 1776 moment…we are at a turning point in our nation's future. This is the time for us to decide who will stand up for the freedoms we have and fight for the cause of liberty. I don’t disagree with this sentiment, but I think 1787 is a more fitting comparison.  
   
