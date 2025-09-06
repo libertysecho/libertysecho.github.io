@@ -21,7 +21,7 @@
 title: Liberty's Echo
 email: custos@libertysecho.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Join me (Custos) in this exposition of American history, politics, and worldview, as we consider what led up to the founding our our nation to prepare us for the sound of liberty – and how that effects our lives today.
+  Restoring the sounds of liberty
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://libertysecho.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: libertysecho
