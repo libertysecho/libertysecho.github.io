@@ -7,4 +7,4 @@ In the days leading up to the ratification of the U.S. Constitution, a series of
 
 In honor of these great essays, known today as The Federalist Papers, I have chosen to utilize a pseudonym for this site.  The Latin word "Custos" means watchman or guardian - and that is the goal of this site: to stand watch for the cause of freedom and to help restore the sound of liberty, of which we hear only echoes today.
 
-In June 2025, I had the opportunity to sign my name on a copy of the Declaration of Independence, pledging my life, fortune, and sacred honor to the cause of liberty.  I did so without fully knowing how that pledge would take shape in my personal life.  Liberty's Echo is one way I am striving to live out that commitment.SS
+In June 2025, I had the opportunity to sign my name on a copy of the Declaration of Independence, pledging my life, fortune, and sacred honor to the cause of liberty.  I did so without fully knowing how that pledge would take shape in my personal life.  Liberty's Echo is one way I am striving to live out that commitment.

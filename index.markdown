@@ -1,9 +1,7 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: home
 ---
+<h1 class="post-title">This is Our 1787 Moment</h1>
 It has been said that we are living in our 1776 moment…what happens now politically will drastically affect the future of our country. This is the time for us to decide who will stand up for the freedoms we have and fight for the cause of liberty. I don’t disagree with this sentiment, but I think 1787 is a more fitting comparison.
 
 In the years after the American Revolution, the citizens of the young country had to deal with many issues – how to shape this new nation. As such, great political, philosophical, and logical discussion took place and the Founding Fathers worked together to create the greatest nation in the modern world.
@@ -12,6 +10,6 @@ Many consider July 4, 1776, the birthday of the United States, but I posit that 
 
 Unfortunately, today we are seeing these founding ideals slipping away.  We, as a nation, seem to be forgetting the cause of freedom that was fought for.  The ringing of the liberty bell is harder and harder to hear.  But it doesn't need to be this way.
 
-Join me (Custos) in this exposition of American history, politics, and worldview, as we consider what led up to the founding of our nation to prepare us for the sound of liberty – and how that affects our lives today.
+Join me ([Custos](/about/)) in this exposition of American history, politics, and worldview, as we consider what led up to the founding of our nation to prepare us for the sound of liberty – and how that affects our lives today.
 
 This site is dedicated to the memory and mission of Charlie Kirk - a political commentator and activist brutally murdered for speaking the truth.  Through Liberty's Echo, I will carry forward his message of restoring the values that fashioned our nation and preserving them in today's world.  Will you join me in amplifying the echoes of liberty? 
