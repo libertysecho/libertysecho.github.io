@@ -3,8 +3,13 @@ layout: page
 title: Resources
 permalink: /resources/
 ---
-Here are a list of resources related to the mission of Liberty's Echo.
+Here are some trusted resources for your journey in restoring the sounds of liberty!
 
-- [Patriot Academy](https://www.patriotacademy.com/)
+## Reference Material
+- [National Archives](https://www.archives.gov/)
+- [National Constitution Center](https://constitutioncenter.org/)
 - [Wallbuilders](https://wallbuilders.com/)
+
+## Action Material
+- [Patriot Academy](https://www.patriotacademy.com/)
 - [Turning Point USA](https://tpusa.com/)
