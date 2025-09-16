@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /about/
 ---
-In the days leading up to the ratification of the U.S. Constitution, a series of essays were written to the common people urging them to ratify the founding document.  These essays appeared in newspapers written by a pseudonym, "Publius" - a Latin word meaning "the people", illustrating the idea of this Constitution being for the people, of the people, by the people. 
+In the days leading up to the ratification of the U.S. Constitution, a series of essays was written to the common people urging them to ratify the founding document.  These essays appeared in newspapers written by a pseudonym, "Publius" - a Latin word meaning "the people", illustrating the idea of this Constitution being for the people, of the people, by the people. 
 
 In honor of these great essays, known today as The Federalist Papers, I have chosen to utilize a pseudonym for this site.  The Latin word "Custos" means watchman or guardian - and that is the goal of this site: to stand watch for the cause of freedom and to help restore the sound of liberty, of which we hear only echoes today.
 
