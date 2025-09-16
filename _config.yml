@@ -33,9 +33,9 @@ plugins:
 
 header_pages:
   - about.markdown
-  - resources.markdown
   - liberty_once_lost.markdown
   - we_the_people.markdown
+  - resources.markdown
 
 # Exclude from processing.
 # The following items will not be processed, by default.
