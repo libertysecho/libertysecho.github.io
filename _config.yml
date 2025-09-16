@@ -21,11 +21,10 @@
 title: Liberty's Echo
 email: custos@libertysecho.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Restoring the sounds of liberty.
+  Restoring the Sounds of Liberty
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://libertysecho.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: libertysecho
-github_username:  libertysecho
 
 # Build settings
 theme: minima
