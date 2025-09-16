@@ -10,6 +10,6 @@ Many consider July 4, 1776, the birthday of the United States, but I posit that 
 
 Unfortunately, today we are seeing these founding ideals slipping away.  We, as a nation, seem to be forgetting the cause of freedom that was fought for.  The ringing of the liberty bell is harder and harder to hear.  But it doesn't need to be this way.
 
-Join me ([Custos](/about/)) in this exposition of American history, politics, and worldview, as we consider what led up to the founding of our nation to prepare us for the sound of liberty – and how that affects our lives today.
+Join me ([Custos](/about/)) in this exposition of American history, politics, and worldview, as we explore the principles our nation was founded upon, how the once-clear sound of liberty has diminished to faint echoes, and how together we can restore its full voice.
 
 This site is dedicated to the memory and mission of Charlie Kirk - a political commentator and activist brutally murdered for speaking the truth.  Through Liberty's Echo, I will carry forward his message of restoring the values that fashioned our nation and preserving them in today's world.  Will you join me in amplifying the echoes of liberty? 
