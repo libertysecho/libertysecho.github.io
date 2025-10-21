@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: post
 title: WE the People
-permalink: /we_the_people/
+permalink: articles/we_the_people/
 ---
 "We the People of the United States of America...do ordain and establish this Constitution for the United States of America".  
 

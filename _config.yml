@@ -34,8 +34,7 @@ plugins:
 header_pages:
   - about.markdown
   - subscribe.markdown
-  - liberty_once_lost.markdown
-  - we_the_people.markdown
+  - articles.markdown
   - resources.markdown
 
 # Exclude from processing.

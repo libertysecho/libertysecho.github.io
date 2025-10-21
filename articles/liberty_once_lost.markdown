@@ -1,7 +1,7 @@
 ---
-layout: page
+layout: post
 title: Liberty Once Lost
-permalink: /liberty_once_lost/
+permalink: articles/liberty_once_lost/
 ---
 John Adams once wrote, "liberty once lost is lost forever."  Ronald Reagan echoed this when he said, "Freedom is never more than one generation from extinction."
 
